@@ -41174,7 +41174,7 @@ function w5() {
                                     }),
                                     g.jsx("span", {
                                       className: "md:hidden",
-                                      children: "3vz82E...z88npump",
+                                      children: "0x0000...comingsoon",
                                     }),
                                   ],
                                 }),
@@ -41313,7 +41313,7 @@ function w5() {
                               ],
                             }),
                             g.jsxs(E.a, {
-                              href: "https://x.com/usdut_coin_sol",
+                              href: "https://x.com/usdut_eth",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -41519,7 +41519,7 @@ function w5() {
                           "hover:text-[#12BFA1] transition-colors cursor-pointer",
                         whileHover: { scale: 1.05 },
                         whileTap: { scale: 0.95 },
-                        children: "Contract: 3vz82E..z88npump",
+                        children: "Contract: 0x0000...comingsoon",
                       }),
                       g.jsx("span", { children: "•" }),
                       g.jsx("span", { children: "Ethereum Network" }),
