@@ -27043,12 +27043,12 @@ const wR = ({ currentPrice: t, priceHistory: e, isGlitching: n }) => {
                                   "text-cyan-400 font-mono text-sm bg-black/60 px-3 py-2 rounded border border-cyan-400/30 flex-1",
                                 whileHover: { scale: 1.02 },
                                 children:
-                                  "0xcomingsoon",
+                                  "0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f",
                               }),
                               g.jsx(E.button, {
                                 onClick: () =>
                                   navigator.clipboard.writeText(
-                                    "0xcomingsoon"
+                                    "0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f"
                                   ),
                                 className:
                                   "bg-cyan-600 hover:bg-cyan-500 text-white px-3 py-2 rounded font-mono text-xs transition-colors",
@@ -27085,7 +27085,7 @@ const wR = ({ currentPrice: t, priceHistory: e, isGlitching: n }) => {
                         className: "grid grid-cols-1 gap-3",
                         children: [
                           g.jsxs(E.a, {
-                            href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                            href: "https://dexscreener.com/ethereum/0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -27126,7 +27126,7 @@ const wR = ({ currentPrice: t, priceHistory: e, isGlitching: n }) => {
                             ],
                           }),
                           g.jsxs(E.a, {
-                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                            href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className:
@@ -41170,18 +41170,18 @@ function w5() {
                                     g.jsx("span", {
                                       className: "hidden md:inline",
                                       children:
-                                        "0xcomingsoon",
+                                        "0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f",
                                     }),
                                     g.jsx("span", {
                                       className: "md:hidden",
-                                      children: "0x0000...comingsoon",
+                                      children: "0xc87d...40607f",
                                     }),
                                   ],
                                 }),
                                 g.jsx(E.button, {
                                   onClick: () =>
                                     navigator.clipboard.writeText(
-                                      "0xcomingsoon"
+                                      "0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f"
                                     ),
                                   className:
                                     "bg-[#12BFA1] hover:bg-[#0E9D83] text-white px-3 py-2 rounded font-mono text-xs transition-colors flex-shrink-0",
@@ -41218,7 +41218,7 @@ function w5() {
                           className: "grid grid-cols-1 gap-3",
                           children: [
                             g.jsxs(E.a, {
-                              href: "https://dexscreener.com/ethereum/0xcomingsoon",
+                              href: "https://dexscreener.com/ethereum/0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -41264,7 +41264,7 @@ function w5() {
                               ],
                             }),
                             g.jsxs(E.a, {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xcomingsoon",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f",
                               target: "_blank",
                               rel: "noopener noreferrer",
                               className:
@@ -41512,7 +41512,7 @@ function w5() {
                       g.jsx(E.button, {
                         onClick: () => {
                           navigator.clipboard.writeText(
-                            "0xcomingsoon"
+                            "0xc87df556b53a8c1b0ed7a1eeaf63d9349d40607f"
                           );
                         },
                         className:
