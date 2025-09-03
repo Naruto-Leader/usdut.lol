@@ -41519,7 +41519,7 @@ function w5() {
                           "hover:text-[#12BFA1] transition-colors cursor-pointer",
                         whileHover: { scale: 1.05 },
                         whileTap: { scale: 0.95 },
-                        children: "Contract: 0x0000...comingsoon",
+                        children: "Contract: 0xc87d...40607f",
                       }),
                       g.jsx("span", { children: "•" }),
                       g.jsx("span", { children: "Ethereum Network" }),
